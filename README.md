@@ -1,2 +1,2 @@
-# victoriagaga.github.com
+# victoriagaga.github.io
 Website de clase
